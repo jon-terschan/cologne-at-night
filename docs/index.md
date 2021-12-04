@@ -17,8 +17,7 @@ In order to access the files via the links, you need to set the repository as pu
 Edit the text below and add links to the maps that you have created:
 
  - [My static map]()
- - [My interactive map](https://autogis-2021.github.io/exercise-5-jon-terschan/tree/main/docs/clubs_cologne.html)
+ - [My interactive map](https://github.com/jon-terschan/cologne-at-night.git/tree/main/docs/clubs_cologne.html)
  
  You can check syntax for formatting the links in here: 
  - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
-
